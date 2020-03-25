@@ -1,0 +1,37 @@
+name: github_client_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  json_annotation: ^3.0.1
+  shared_preferences: ^0.5.6+3
+  dio: ^3.0.9
+  provider: ^3.2.0
+  flukit: ^1.0.2
+  cached_network_image: ^2.0.0
+  fluttertoast: ^4.0.1
+  loading: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.8.0
+  json_serializable: ^3.2.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/avatar-default.png
+  fonts:
+    - family: 'myIcon'
+      fonts:
+        - asset: fonts/iconfont.ttf

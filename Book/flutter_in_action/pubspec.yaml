@@ -1,0 +1,45 @@
+name: flutter_in_action
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  english_words: ^3.1.5
+  path_provider: ^1.6.5
+  dio: ^3.0.9
+  web_socket_channel: ^1.1.0
+  json_annotation: ^3.0.1
+  camera: ^0.5.7+4
+  video_player: ^0.10.8+1
+  webview_flutter: ^0.3.19+9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.8.0
+  json_serializable: ^3.2.5
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - json/config.json
+    - images/avatar.png
+    - images/sea.png
+  fonts:
+    - family: Raleway
+      fonts: 
+        - asset: fonts/Raleway-Regular.ttf
+        - asset: fonts/Raleway-Medium.ttf
+          weight: 500
+        - asset: fonts/Raleway-SemiBold.ttf
+          weight: 600
+    - family: myIcon
+      fonts: 
+        - asset: fonts/iconfont.ttf

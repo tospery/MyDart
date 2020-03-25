@@ -1,0 +1,18 @@
+# This is a generated file; do not edit or check into version control.
+android_intent=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/android_intent-0.3.4+8/
+connectivity=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.4.6+1/
+device_info=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/device_info-0.4.1+4/
+flutter_webview_plugin=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.10+1/
+fluttertoast=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-3.1.3/
+package_info=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.0+13/
+path_provider=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.5.1/
+permission_handler=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-3.2.2/
+share=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/share-0.6.3+5/
+shared_preferences=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.6/
+shared_preferences_macos=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_macos-0.0.1+3/
+shared_preferences_web=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+2/
+sqflite=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.2.0/
+url_launcher=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.4.1/
+url_launcher_macos=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-0.0.1+2/
+url_launcher_web=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-0.1.0+2/
+webview_flutter=/Users/tospery/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.19+8/
