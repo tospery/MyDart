@@ -10,9 +10,22 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.2
   flutter_redux: ^0.6.0
+  # async: ^2.4.0
+  redux_epics: ^0.13.0
+  rxdart: ^0.23.1
+  transparent_image: ^1.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: fonts/montserrat/Montserrat-Bold.ttf
+        - asset: fonts/montserrat/Montserrat-Regular.ttf
+    - family: Hind
+      fonts:
+        - asset: fonts/hind/Hind-Regular.ttf
